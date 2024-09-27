@@ -1,0 +1,14 @@
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Users\saull\Documents\Cursos\Curso_C#2\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
